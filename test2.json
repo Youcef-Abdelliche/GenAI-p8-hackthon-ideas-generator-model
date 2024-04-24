@@ -1,10 +1,13 @@
 {
-"abandon_television": {
-    "conversation": [
-      "A: Climate change poses an existential threat to humanity, necessitating urgent action to reduce greenhouse gas emissions. Strong environmental regulations are essential for protecting ecosystems, wildlife, and natural resources for future generations.",
-      "B: I understand the concern about climate change, but imposing stringent environmental regulations could harm businesses and hinder economic growth. We need to strike a balance between environmental protection and economic prosperity."
-    ],
-    "new_ideas": [
-    ]
-  }
+  "conversation_list": [
+      {
+          "conversation": [
+            "A: Climate change poses an existential threat to humanity, necessitating urgent action to reduce greenhouse gas emissions. Strong environmental regulations are essential for protecting ecosystems, wildlife, and natural resources for future generations.",
+            "B: I understand the concern about climate change, but imposing stringent environmental regulations could harm businesses and hinder economic growth. We need to strike a balance between environmental protection and economic prosperity. Isn't there a risk that excessive regulations could stifle innovation and competitiveness?"
+          ],
+          "new_ideas": [
+            
+          ]
+      }
+  ]
 }
