@@ -6,3 +6,4 @@ trl==0.4.7
 ipykernel
 scipy
 huggingface_hub
+tensorboardX
